@@ -6,7 +6,9 @@ you were once famous on scratch when you was a child but growing up you forgot a
 
 You find out that bacon dev had been hacked by a guy named "PixelProgrammer182", a well respected scratcher who is basically this universes griffpatch. The reasoning for this was pixel programmer had began to build his own dev team and recruiting people that signed up via remixing his "pixel studios sign up form template" project. He would then contact you in private inviting you to his discord server where you had to authenticate with scratch meaning the passwords of everyone that joined was on pixel programmers pc. However pixel programmer (real name Elliot Rose) had been diagnosed with schizophrenia and had basically gone insane over the past few weeks beliving that non-human entities called (insert name here) from another planet have hacked our satelites and are going to possess all the worlds computers and kill us all. However he belives they are immune to this other type of entity called (insert name here) and begins to coe an advanced ai simulating them. He then gives the ai the file containing all the scratch passwords so the ai can edit the projects of all the scratchers in his dev team.
 
-possible endings based on gameplay choices:
+# possible endings based on gameplay choices:
 you fix all of bacondevs projects, call the police and get pixel programmer put in a insane asylum
+
 you get pixel programmer ip banned from scratch which leads him to track you down and try to kill you, you get an ending for both when he succeeds and doesnt succeed
+
 the projects drive you insane and cause you to also experience hallucinations leading you to team up with pixel programmer and develop the ai further hacking massive sites such as youtube and google causing you to both make it on the news and be put on trial before bieng deemed mentally ill and both bieng put in an insane asylum
